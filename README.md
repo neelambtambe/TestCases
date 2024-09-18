@@ -45,6 +45,18 @@ Execute and Log Results:
 
 13. Execute the test cases during testing phases and log the outcomes for each step.
 Standards for Writing Test Cases:
-Clarity and Simplicity:
+
+################################################################################################################################################################
+
+- Standards for Writing Test Cases:
+1. Clarity and Simplicity: Test cases should be written in simple, non-technical language, making them understandable for all team members.
+2. Traceability: Every test case should be linked back to specific requirements (traceability matrix), ensuring that all functionalities are covered.
+3. Modularity: Test cases should be independent, allowing them to be reused in different test cycles without modification.
+4. Measurable and Verifiable: The expected outcome should be clearly measurable and verifiable, ensuring it’s easy to mark a test case as pass or fail.
+5. Maintenance: Keep test cases up-to-date with evolving software requirements and changes in functionality.
+6. Positive and Negative Testing: Ensure the test cases include both positive testing (valid inputs) and negative testing (invalid inputs).
+7. Use of Standard Template: Adopt a consistent template that includes fields such as test case ID, test title, preconditions, steps, expected results, and status.
+
+
 
 
