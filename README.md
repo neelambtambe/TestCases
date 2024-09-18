@@ -118,3 +118,31 @@ Reporting and Logging: Comprehensive reports and logs should be generated for ev
 Incorporate Automation into CI/CD Pipeline: Integrating automated tests into the CI/CD pipeline ensures that they are triggered on every code change, catching bugs early.
 
 ##################################################################################################
+
+Tools & Technologies for Test Automation:
+Selenium (Web testing)
+
+Supports multiple browsers and platforms.
+Works with programming languages like Java, C#, Python, etc.
+Appium (Mobile testing)
+
+Supports native, hybrid, and mobile web applications.
+Cross-platform tool for iOS and Android.
+Postman (API testing)
+
+Automates API tests for web services.
+Supports automation through Newman and integration with CI/CD.
+Cucumber (BDD)
+
+Allows writing tests in plain English (Gherkin), which is then translated into code.
+Great for non-technical stakeholders to participate in writing test cases.
+JUnit / TestNG (Unit testing)
+
+Popular testing frameworks in Java.
+Provide annotations, assertions, and test lifecycle management.
+Katalon Studio (All-in-one tool)
+
+Supports web, mobile, API, and desktop automation.
+Provides an easy-to-use UI and out-of-the-box integration with CI tools.
+
+##################################################################################################
