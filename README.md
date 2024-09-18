@@ -93,3 +93,11 @@ Reusability: Test scripts can be reused across different test cycles and environ
 Cost-Effectiveness: Though the initial setup for automation is costly, it provides long-term savings by reducing manual labor and time.
 
 ##################################################################################################
+
+Challenges of Test Automation:
+Initial Setup Time: Creating an automation framework, writing test scripts, and configuring the environment can take significant time upfront.
+Maintenance: As the software evolves, tests must be updated regularly to remain useful.
+Flaky Tests: Tests can sometimes fail due to minor issues such as timing delays or UI changes, making them unreliable.
+Not Suitable for Everything: Some types of testing (e.g., exploratory testing or UI/UX evaluations) still require human intervention.
+
+##################################################################################################
