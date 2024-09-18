@@ -85,3 +85,11 @@ Test Maintenance: As the application evolves, automated tests need to be updated
 
 ##################################################################################################
 
+Benefits of Test Automation:
+Faster Execution: Automated tests run much faster than manual tests, allowing for more frequent and comprehensive testing.
+Increased Coverage: Automation enables large-scale testing of scenarios that might not be feasible manually, covering edge cases, large datasets, and regressions.
+Consistency: Automated tests provide consistent results, removing the risk of human error in manual testing.
+Reusability: Test scripts can be reused across different test cycles and environments.
+Cost-Effectiveness: Though the initial setup for automation is costly, it provides long-term savings by reducing manual labor and time.
+
+##################################################################################################
